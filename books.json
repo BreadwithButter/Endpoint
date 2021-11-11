@@ -1,0 +1,40 @@
+[
+    {
+        "id": 123456,
+        "name": "Kniha1",
+        "author": ["Andrej Skocej"],
+        "genre": ["Diary"],
+        "publish_year": 2002,
+        "publisher": "Ikar",
+        "publish_country": "Slovakia",
+        "num_of_pages": 200
+    },
+
+    {
+        "id": 456123,
+        "name": "Kniha2",
+        "author": ["Peter Novak"],
+        "genre": ["Roman"],
+        "publish_year": 2002,
+        "publisher": "Martinus",
+        "publish_country": "Germany",
+        "num_of_pages": 150
+    },
+    
+    {
+        "id": 654321,
+        "name": "Kniha3",
+        "author": ["Janko Hrasko"],
+        "genre": ["Bestseller"],
+        "publish_year": 2002,
+        "publisher": "Matica",
+        "publish_country": "Poland",
+        "num_of_pages": 205
+    }
+
+
+
+
+
+
+]
