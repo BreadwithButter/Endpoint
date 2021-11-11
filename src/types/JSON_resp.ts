@@ -1,3 +1,7 @@
+/**
+ * Type responses for simple declaration of output data
+ */
+
 export type response = {
     id: Number,
     name: String,
